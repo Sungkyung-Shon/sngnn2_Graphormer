@@ -72,11 +72,13 @@ def set_in_range(v, a, b):
 
 
 
+
 ###
 ###  C O N F I G    B L O C K
 ###
 base = "showcase"
-bins = int(sys.argv[2])  # 80
+#bins = int(sys.argv[2])  # 80
+bins = 25
 l_img = 6.5
 # bins = int(sys.argv[1])
 tick = 0
@@ -122,8 +124,8 @@ for scenario in scenario_list:
         xs = np.linspace(-l_img, l_img, bins)
         ys = np.linspace(-l_img, l_img, bins)
         for x_i, x in enumerate(xs):
-            if x_i % 5 == 0:
-                print(x_i)
+            #if x_i % 5 == 0:
+                #print(x_i)
             for y_i, y in enumerate(ys):
                 sn_sequence = []
                 within_room = True
