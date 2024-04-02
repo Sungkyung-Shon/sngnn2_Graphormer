@@ -4,7 +4,7 @@
 This project explores the application of Graphormer, an innovative neural network architecture, for enhancing the navigation capabilities of robots in human-centric environments. Using Graphormer's proficiency with intricate relational data, our goal is to create human-aware robots that can effectively and securely live alongside people.
 
 ## Dataset
-The research utilizes the SocNav2 dataset(https://github.com/gnns4hri/sngnnv2).
+The research utilizes the SocNav2 dataset (https://github.com/gnns4hri/sngnnv2).
 
 ## Methodology
 This model's ability to handle graph-structured data efficiently is mostly dependent on Graphormer encodings. To improve the performance of the Transformer architecture in the field of graph representation learning, edge, spatial, and centrality encodings are incorporated. Information about how to use these encodings and why they matter for robot navigation may be found in the README section.
