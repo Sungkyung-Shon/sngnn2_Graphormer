@@ -8,6 +8,7 @@ The research utilizes the SocNav2 dataset (https://github.com/gnns4hri/sngnnv2).
 
 ## Methodology
 This model's ability to handle graph-structured data efficiently is mostly dependent on Graphormer encodings. To improve the performance of the Transformer architecture in the field of graph representation learning, edge, spatial, and centrality encodings are incorporated. Information about how to use these encodings and why they matter for robot navigation may be found in the README section.
+
 ![image](https://github.com/Sungkyung-Shon/sngnn2_Graphormer/assets/81243837/4a246d55-2d0b-43f8-a5f1-931a1da3ac9f)
 
 
