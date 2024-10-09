@@ -17,3 +17,7 @@ The experiments conducted using the SocNav2 dataset illustrate the model's poten
 
 ## Future Directions
 Future goals are to improve Graphormer's interpretability, address its computational issues, and improve its handling of dynamic graphs. Ensuring these systems are capable of moral responsibility and social intelligence during navigation is the aim of this contribution to the field of human-aware robot navigation.
+
+## Dissertation
+The full dissertation can be found at https://drive.google.com/file/d/1yYdgREkusZeBL4dd3zedi8UQLU8GMzmg/view?usp=drive_link . 
+
